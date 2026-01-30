@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SQL Project
 
 ##  Project Overview
